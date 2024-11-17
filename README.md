@@ -8,4 +8,4 @@ You also need to open the folder in CMD and type this command:
 > pip install -r requirements.txt
 
 # Extra
-If you are concerned that this program has malicious content, feel free to run the files through VirusTotal, or even check the code!
+If you are concerned that this program contains malicious content, feel free to run the files through VirusTotal, or even check the code!
